@@ -1,0 +1,12 @@
+bin\Debug\KeyboardHook.exe
+bin\Debug\KeyboardHook.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KeyboardHook.Properties.Resources.resources
+obj\Debug\KeyboardHook.csproj.GenerateResource.Cache
+obj\Debug\KeyboardHook.exe
+obj\Debug\KeyboardHook.pdb
+obj\Debug\KeyboardHook.Hk_Form.resources
+bin\Debug\KeyboardHook.exe.manifest
+bin\Debug\KeyboardHook.application
+obj\Debug\KeyboardHook.exe.manifest
+obj\Debug\KeyboardHook.application
